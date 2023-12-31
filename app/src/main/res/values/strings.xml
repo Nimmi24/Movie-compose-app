@@ -1,0 +1,35 @@
+<!--
+  ~ Copyright (C) 2022 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">MovieApp Compose</string>
+    <string name="text_popular">Popular</string>
+    <string name="text_favorite">Favorite</string>
+    <string name="text_back">Back</string>
+    <string name="text_play">Play</string>
+    <string name="text_trailer">Trailer</string>
+    <string name="text_videos">Videos</string>
+    <string name="text_rating">Rating</string>
+    <string name="text_favorite_add">Add Favorite</string>
+    <string name="text_favorite_remove">Remove Favorite</string>
+    <string name="text_oops_something_went_wrong">Oops, something went wrong!</string>
+    <string name="text_retry">Retry</string>
+    <string name="text_you_dont_have_favorite">You don\'t have favorite movie now</string>
+    <string name="text_movies">Movies</string>
+    <string name="text_favorites">Favorites</string>
+    <string name="text_cast">Cast</string>
+    <string name="text_crew">Crew</string>
+</resources>
